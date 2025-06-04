@@ -37,7 +37,7 @@ Here are some of the tools, languages, and frameworks I’ve worked with:
 
 > “Build what matters, learn what excites you.”
 
-Every project I work on is a small step toward solving real-world problems or exploring ideas that spark curiosity. Whether it’s a public transport app or a fun data viz project, it’s all about learning and building with purpose.
+Every project I work on is a small step toward solving real-world problems or exploring ideas that spark curiosity. It’s all about learning and building with purpose.
 
 ---
 
@@ -50,7 +50,6 @@ Every project I work on is a small step toward solving real-world problems or ex
 
 ### 🚀 Coming Soon
 
-- 🎓 Showcase of university projects
 - 📊 Data visualization gallery
 - 🛠️ Cool side experiments and tools
 
