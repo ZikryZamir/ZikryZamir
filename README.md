@@ -56,5 +56,7 @@ Every project I work on is a small step toward solving real-world problems or ex
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D47A1&height=200&section=footer"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZikryZamir&layout=compact&theme=github_dark" />
 </p>
+
+
