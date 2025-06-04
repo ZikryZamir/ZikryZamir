@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm Zikry 👋</h1>
+<h1 align="center">Hi! I'm Zikry 👋</h1>
 <p align="center">
   📱 Mobile Developer • 📊 Data Hobbyist • 🧠 Lifelong Learner
 </p>
