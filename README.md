@@ -96,9 +96,15 @@ Every project I work on is a small step toward solving real-world problems or ex
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZikryZamir&layout=compact&theme=github_dark" />
 </p>
+
+---
+
 <div align="center">
   <img height="200" src="https://i.imgur.com/BENb9k9.gif"  />
 </div>
+
+---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZikryZamir/ZikryZamir/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZikryZamir/ZikryZamir/output/pacman-contribution-graph.svg">
