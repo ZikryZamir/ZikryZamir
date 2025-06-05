@@ -74,15 +74,22 @@ Every project I work on is a small step toward solving real-world problems or ex
 ### 🔗 Let’s Connect!
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="30" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="47" height="30" alt="whatsapp logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="47" height="30" alt="telegram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="47" height="30" alt="paypal logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="30" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/zikryzamir/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="30" alt="LinkedIn logo" />
+  </a>
+  <a href="mailto:muhdzikryzamir@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="30" alt="gmail logo"  />
+  </a>
+  <a href="https://web.whatsapp.com/send/?phone=60176906410" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="47" height="30" alt="whatsapp logo"  />
+  </a>
+  <a href="https://t.me/ZikryZamir" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="47" height="30" alt="telegram logo"  />
+  </a>
+  <a href="https://paypal.me/MuhdZikry" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="47" height="30" alt="paypal logo"  />
+  </a>
 </div>
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/zikryzamir/)
-- 📱 Currently working on: [Transitradar](https://github.com/ZikryZamir/Transitradar)
 
 ---
 
@@ -103,11 +110,4 @@ Every project I work on is a small step toward solving real-world problems or ex
   <img height="200" src="https://i.imgur.com/BENb9k9.gif"  />
 </div>
 
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZikryZamir/ZikryZamir/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZikryZamir/ZikryZamir/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ZikryZamir/ZikryZamir/output/pacman-contribution-graph.svg">
-</picture>
 
